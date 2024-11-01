@@ -1,0 +1,156 @@
+# Copyright (C) 2019 WP Courseware WooCommerce Addon-on
+# This file is distributed under the same license as the WP Courseware WooCommerce Addon-on package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Courseware WooCommerce Addon-on\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Fly Plugins <info@flyplugins.com>\n"
+"Last-Translator: Fly Plugins <info@flyplugins.com>\n"
+"Report-Msgid-Bugs-To: https://flyplugins.com/questions/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-wpcw-wc-members.php:81
+msgid "&amp; Automatic Course Access Settings"
+msgstr ""
+
+#: includes/class-wpcw-wc-members.php:99
+msgid "That product does not appear to exist."
+msgstr ""
+
+#: includes/class-wpcw-wc-members.php:124
+#, php-format
+msgid "Editing access settings for <b>%1$s</b> product with <b>%2$s</b>:"
+msgstr ""
+
+#: includes/class-wpcw-wc-members.php:145
+msgid "Save Changes"
+msgstr ""
+
+#: includes/class-wpcw-wc-members.php:148
+msgid "Courses user can access with this product"
+msgstr ""
+
+#: includes/class-wpcw-wc-members.php:154
+msgid "Do you want to retroactively enroll students into selected courses? <br><br><strong><i>[NOTE]</i></strong> - Deselecting course(s) will de-enroll students.<br>"
+msgstr ""
+
+#: includes/class-wpcw-wc-members.php:156
+msgid "Yes, enroll students into newly selected course(s)"
+msgstr ""
+
+#: includes/class-wpcw-wc-members.php:157
+msgid "No, just associate course(s) with the product."
+msgstr ""
+
+#: includes/class-wpcw-wc-members.php:228
+msgid "Product and course access settings successfully updated."
+msgstr ""
+
+#: includes/class-wpcw-wc-members.php:231
+#: includes/class-wpcw-wc-membership.php:150
+#, php-format
+msgid "Want to return to the <a href=\"%s\">Course Access Settings</a>?"
+msgstr ""
+
+#: includes/class-wpcw-wc-members.php:241
+msgid "&laquo; Return to Course Access Settings"
+msgstr ""
+
+#: includes/class-wpcw-wc-members.php:269
+msgid "Product ID"
+msgstr ""
+
+#: includes/class-wpcw-wc-members.php:272
+msgid "Product Name"
+msgstr ""
+
+#: includes/class-wpcw-wc-members.php:275
+msgid "Users with this product can access:"
+msgstr ""
+
+#: includes/class-wpcw-wc-members.php:278
+msgid "Actions"
+msgstr ""
+
+#: includes/class-wpcw-wc-members.php:309
+msgid "There are no courses yet."
+msgstr ""
+
+#: includes/class-wpcw-wc-members.php:315
+msgid "Edit Course Access Settings"
+msgstr ""
+
+#: includes/class-wpcw-wc-members.php:325
+#, php-format
+msgid "No products were found for %s."
+msgstr ""
+
+#: includes/class-wpcw-wc-members.php:403
+msgid "addon"
+msgstr ""
+
+#: includes/class-wpcw-wc-members.php:405
+#, php-format
+msgid "The %s plugin has not been detected. Is it installed and activated?"
+msgstr ""
+
+#: includes/class-wpcw-wc-members.php:420
+msgid "WP Courseware"
+msgstr ""
+
+#: includes/class-wpcw-wc-members.php:420
+msgid "has not been detected. Is it installed and activated?"
+msgstr ""
+
+#: includes/class-wpcw-wc-members.php:437
+msgid "New users given access based on"
+msgstr ""
+
+#: includes/class-wpcw-wc-members.php:437
+msgid "product"
+msgstr ""
+
+#: includes/class-wpcw-wc-membership.php:145
+msgid "Course access settings successfully updated."
+msgstr ""
+
+#: includes/class-wpcw-wc-membership.php:147
+msgid "All existing customers were retroactively enrolled into the selected courses successfully."
+msgstr ""
+
+#: includes/class-wpcw-wc-membership.php:153
+msgid "&laquo; Return to Course"
+msgstr ""
+
+#: includes/class-wpcw-wc-membership.php:194
+msgid "No existing customers found for the specified product."
+msgstr ""
+
+#: includes/class-wpcw-wc-membership.php:269
+msgid "Please wait. Retroactively updating existing customers..."
+msgstr ""
+
+#: includes/class-wpcw-wc-menu-courses.php:106
+#: includes/class-wpcw-wc-menu-courses.php:160
+msgid "Endpoint for the \"Courses\" page."
+msgstr ""
+
+#: includes/class-wpcw-wc-menu-courses.php:259
+#: includes/class-wpcw-wc-menu-courses.php:272
+msgid "My Courses"
+msgstr ""
+
+#: includes/class-wpcw-wc-menu-courses.php:331
+msgid "Courses"
+msgstr ""
